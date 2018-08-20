@@ -1,0 +1,21 @@
+create database db_chat
+
+create table tb_conversa
+(
+id_chat int auto increment,
+remetente varchar(20),
+destinatario varchar(20),
+mensagem longtext,
+lido varchar(2)
+)
+
+create table tb_usuario
+(
+id_usuario int autoincrement,
+nm_usuario varchar(60),
+username varchar(20),
+senha varchar(20),
+departamento varchar(20),
+ip varchar(20),
+status  varchar(10)
+)

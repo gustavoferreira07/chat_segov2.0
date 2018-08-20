@@ -1,0 +1,130 @@
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\Chat Segov 1.7.exe.config
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\MetroFramework.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\bin\x86\Release\MySql.Data.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_cadastro.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_chat_grupo.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_contatos.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_conversa.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_email.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_grupo.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_login.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_mensagens.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_perfil.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.tela_principal.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Properties.Resources.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_sobre.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_splash.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.Telas.tela_tema.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\chat_segov.csproj.GenerateResource.Cache
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.7\chat_segov\obj\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\Chat Segov 1.7.exe.config
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\MetroFramework.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\bin\x86\Release\MySql.Data.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_cadastro.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_chat_grupo.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_contatos.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_conversa.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_email.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_grupo.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_login.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_mensagens.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_perfil.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.tela_principal.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Properties.Resources.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_sobre.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_splash.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_tema.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.csproj.GenerateResource.Cache
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\Chat Segov 1.7.exe.config
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\MetroFramework.dll
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\bin\x86\Release\MySql.Data.dll
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.csprojResolveAssemblyReference.cache
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_cadastro.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_chat_grupo.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_contatos.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_conversa.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_email.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_grupo.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_login.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_mensagens.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_perfil.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.tela_principal.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Properties.Resources.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_sobre.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_splash.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_tema.resources
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.csproj.GenerateResource.Cache
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.csproj.CoreCompileInputs.cache
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\chat_segov1.8\chat_segov\obj\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.csprojResolveAssemblyReference.cache
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.csproj.CoreCompileInputs.cache
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.8\chat_segov\obj\x86\Release\chat_segov.Telas.tela_alterar_senha.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\Chat Segov 1.7.exe.config
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\MetroFramework.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\bin\x86\Release\MySql.Data.dll
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_alterar_senha.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_cadastro.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_chat_grupo.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_contatos.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_conversa.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_email.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_grupo.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_login.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_mensagens.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_perfil.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.tela_principal.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Properties.Resources.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_sobre.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_splash.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_tema.resources
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.csproj.GenerateResource.Cache
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.csproj.CoreCompileInputs.cache
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\Projetos Gustavo\chat_segov1.9\chat_segov\obj\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\Chat Segov 1.7.exe.config
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\Chat Segov 1.7.pdb
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\MetroFramework.dll
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\bin\x86\Release\MySql.Data.dll
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.csprojResolveAssemblyReference.cache
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_alterar_senha.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_cadastro.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_chat_grupo.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_contatos.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_conversa.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_email.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_grupo.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_login.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_mensagens.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_perfil.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.tela_principal.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Properties.Resources.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_sobre.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_splash.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.Telas.tela_tema.resources
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.csproj.GenerateResource.Cache
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\chat_segov.csproj.CoreCompileInputs.cache
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\Chat Segov 1.7.exe
+C:\Users\gferreira\Desktop\chat_segov1.9\chat_segov\obj\x86\Release\Chat Segov 1.7.pdb
